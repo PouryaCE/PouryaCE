@@ -35,10 +35,10 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 21 years old Full-Stack developer from India.</h3>
+  <h3> I'm 21 years old Backend developer from IRAN</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - 🥀 Learning python & Django
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
@@ -46,21 +46,20 @@
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
  
- - I do fullstack and a bit of everything :heart:
+ - I do backend and a bit of everything :heart:
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
  
  <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
+  <h4> Backend | Competitive Programming </h4>
    </p>
 
 <!--  -->
 
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+<a href="https://github.com/PouryaCE/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=PouryaCE&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
@@ -118,7 +117,7 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in India</p>
+<p align="center">Made with ❤️ in IRAN</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
